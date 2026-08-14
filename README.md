@@ -1,16 +1,17 @@
-# Lab
+# lab
 
-Personal experiments, snippets, and microservice notes.
+Personal experiments and small utilities. Mostly Go, some scripts and configs.
 
-## Contents
+## Layout
 
-- `notes/` — quick reference notes on Go, Docker, and system design
-- `scripts/` — small utility scripts for local dev
-- `configs/` — sample configs for services
+- `cmd/` — small runnable tools
+- `internal/` — shared helpers
+- `notes/` — quick reference and design notes
+- `scripts/` — one-off shell/python helpers
 
 ## Usage
 
-Clone and browse. Most files are standalone.
+Each subfolder is self-contained. Check individual READMEs for details.
 
 ## License
 
